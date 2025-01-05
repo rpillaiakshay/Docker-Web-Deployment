@@ -1,4 +1,4 @@
-#Simple Web Application Deployment on AWS EC2 Using Docker
+# Simple Web Application Deployment on AWS EC2 Using Docker
 
 ## Objective
 Build and deploy a simple web application on AWS EC2 using Docker, configure basic security and implement monitoring with Prometheus and Grafana.
